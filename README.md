@@ -16,3 +16,5 @@ Can you balance cost, flavor, and speed to craft the perfect cup?
 
 Step into the shoes of a coffee artisan, wield your creativity, and turn your coffeehouse dreams into reality. 
 The Coffee Machine Simulator 2000—where every click brews excitement! ☕✨
+Note: This project requires SFML build to be installed in the same folder to run.
+Credits: Abeer Masroor (Abeer2003), Sufyan Siddiqui (sufyann004), and Kazim Raza.
