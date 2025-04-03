@@ -1,0 +1,16 @@
+//Coffee Machine 2000 Inventory Levels
+
+Ingredient      Stock Left      Unit
+coffee_powder,     2000,         gms
+white_sugar,       4000,         gms
+brown_sugar,       2000,         gms
+mix_sugar,         3450,         gms
+full_cream_milk,   10000,        ml
+almond_milk,       5000,         ml
+coconut_milk,      2300,         ml
+chocolate_flavour, 3670,         gms
+caramel_flavour,   2000,         gms
+matcha_flavour,    800,          gms
+largecups,         100,
+mediumcups,        500,
+smallcups;         300,
